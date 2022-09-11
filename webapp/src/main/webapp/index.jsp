@@ -12,8 +12,8 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>PWD</b></label>
-    <input type="password" placeholder="Enter PWD" name="psw" id="psw" required>
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter password" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
